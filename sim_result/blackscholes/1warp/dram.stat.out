@@ -1,0 +1,48 @@
+####################################################################################################
+Interval
+####################################################################################################
+Cumulative:         Cycles:                  20000     Instructions:                  1200
+DRAM_PRECHARGE                                                  1                             1
+
+DRAM_ACTIVATE                                                  10                            10
+
+DRAM_COLUMN                                                    20                            20
+
+DRAM_AVG_LATENCY_BASE                                          20                            20
+
+DRAM_AVG_LATENCY                                             1234                          61.7
+
+BANDWIDTH_TOT                                                1280                          1280
+
+DRAM_CHANNEL0_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL1_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL2_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL3_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL4_BANDWIDTH_SATURATED                              10                            10
+
+DRAM_CHANNEL5_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL6_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL7_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL0_DBUS_IDLE                                      1739                          1739
+
+DRAM_CHANNEL1_DBUS_IDLE                                      1723                          1723
+
+DRAM_CHANNEL2_DBUS_IDLE                                      1659                          1659
+
+DRAM_CHANNEL3_DBUS_IDLE                                      1739                          1739
+
+DRAM_CHANNEL4_DBUS_IDLE                                      1707                          1707
+
+DRAM_CHANNEL5_DBUS_IDLE                                      1771                          1771
+
+DRAM_CHANNEL6_DBUS_IDLE                                      1739                          1739
+
+DRAM_CHANNEL7_DBUS_IDLE                                      1771                          1771
+

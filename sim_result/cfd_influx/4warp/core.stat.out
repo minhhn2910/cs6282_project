@@ -1,0 +1,58 @@
+####################################################################################################
+Interval
+####################################################################################################
+Cumulative:         Cycles:                  20000     Instructions:                  1200
+DISPATCHED_INST                                              2233                          2233
+
+DISPATCH_WAIT                                              388878                        174.15
+
+NUM_NO_FETCH_CYCLES                                            65                            65
+
+AVG_CORE_IDLE_CYCLE                                          6817                          6817
+
+NUM_SAMPLES_CORE_0                                           9050                          9050
+
+NUM_ACTIVE_BLOCKS_CORE_0                                     9049                      0.999889
+
+NUM_ACTIVE_THREADS_CORE_0                                   35196                       3.88906
+
+NUM_SCHED_IDLE_CYCLE_CORE_0                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_0                                    6817                          6817
+
+CORE_DISPATCHED_INST_CORE_0                                  2233                          2233
+
+CORE_DISPATCH_WAIT_CORE_0                                  388878                        174.15
+
+CORE_CYCLES_CORE_0                                              0                             0
+
+CORE_SCHED_THREADS_CORE_0                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_0                                65                            65
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_0                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_0                                    0                             0
+
+CORE_FETCH_DELTA_CORE_0                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_0                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_0                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_0                                           0                             0
+
+FENCE_WAITING_CORE_0                                            0                             0
+
+DYN_FENCE_NUM_CORE_0                                            0                             0
+
+WB_ORDERING_STALL_CORE_0                                        0                             0
+
+WB_FULL_CORE_0                                                  0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_0                           2233                       16.4336%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_0                      11355                       83.5664%
+SCHED_FAILED_NO_PORTS_CORE_0                                    0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_0                                0                             0%
+                                                            13588                           100%
+

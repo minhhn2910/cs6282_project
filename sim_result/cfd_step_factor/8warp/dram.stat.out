@@ -1,0 +1,48 @@
+####################################################################################################
+Interval
+####################################################################################################
+Cumulative:         Cycles:                  20000     Instructions:                  1200
+DRAM_PRECHARGE                                                  1                             1
+
+DRAM_ACTIVATE                                                   8                             8
+
+DRAM_COLUMN                                                   113                           113
+
+DRAM_AVG_LATENCY_BASE                                         113                           113
+
+DRAM_AVG_LATENCY                                            28530                       252.478
+
+BANDWIDTH_TOT                                                7232                          7232
+
+DRAM_CHANNEL0_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL1_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL2_BANDWIDTH_SATURATED                              31                            31
+
+DRAM_CHANNEL3_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL4_BANDWIDTH_SATURATED                              60                            60
+
+DRAM_CHANNEL5_BANDWIDTH_SATURATED                              62                            62
+
+DRAM_CHANNEL6_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL7_BANDWIDTH_SATURATED                               0                             0
+
+DRAM_CHANNEL0_DBUS_IDLE                                      3030                          3030
+
+DRAM_CHANNEL1_DBUS_IDLE                                      2758                          2758
+
+DRAM_CHANNEL2_DBUS_IDLE                                      2774                          2774
+
+DRAM_CHANNEL3_DBUS_IDLE                                      3030                          3030
+
+DRAM_CHANNEL4_DBUS_IDLE                                      2390                          2390
+
+DRAM_CHANNEL5_DBUS_IDLE                                      2390                          2390
+
+DRAM_CHANNEL6_DBUS_IDLE                                      3030                          3030
+
+DRAM_CHANNEL7_DBUS_IDLE                                      3030                          3030
+
